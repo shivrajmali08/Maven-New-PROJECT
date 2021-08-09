@@ -1,0 +1,19 @@
+2021-07-30 23:31:48,884  INFO [main] TestBase:43 - initializatio browser
+2021-07-30 23:31:48,888  INFO [main] TestBase:26 - reading a value for property: browser
+2021-07-30 23:31:48,889  INFO [main] TestBase:30 - initializing property file
+2021-07-30 23:31:48,890  INFO [main] TestBase:38 - property value found in the file with key as:browserand value is:chrome
+2021-07-30 23:31:48,890  INFO [main] TestBase:45 - user want to automate with chrome browser
+2021-07-30 23:32:01,859  INFO [main] TestBase:62 - launching an application
+2021-07-30 23:32:01,859  INFO [main] TestBase:26 - reading a value for property: url
+2021-07-30 23:32:01,860  INFO [main] TestBase:30 - initializing property file
+2021-07-30 23:32:01,861  INFO [main] TestBase:38 - property value found in the file with key as:urland value is:file:///C:/Users/HP/Desktop/Offline%20Website/Offline%20Website/index.html
+2021-07-30 23:32:03,479  INFO [TestNG-tests-1] TestListener:37 - suite is ready to startthe excution
+2021-07-30 23:32:03,700  INFO [TestNG-tests-1] TestBase:13 - Testcase started with excution logintest
+2021-07-30 23:32:13,598  INFO [TestNG-tests-1] TestListener:18 - Testcase passed with excution logintest
+2021-07-30 23:32:13,606  INFO [TestNG-tests-1] TestBase:13 - Testcase started with excution verifyCourses
+2021-07-30 23:32:13,930  INFO [TestNG-tests-1] TestListener:18 - Testcase passed with excution verifyCourses
+2021-07-30 23:32:13,934  INFO [TestNG-tests-1] TestBase:13 - Testcase started with excution verifyUserPage
+2021-07-30 23:32:15,100  INFO [TestNG-tests-1] TestListener:18 - Testcase passed with excution verifyUserPage
+2021-07-30 23:32:15,108  INFO [TestNG-tests-1] TestBase:13 - Testcase started with excution verifyUserHeaders
+2021-07-30 23:32:15,329  INFO [TestNG-tests-1] TestListener:18 - Testcase passed with excution verifyUserHeaders
+2021-07-30 23:32:15,518  INFO [TestNG-tests-1] TestListener:42 - suit is finished succesfully
